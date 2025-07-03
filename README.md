@@ -82,7 +82,7 @@ You can run the notebook on Kaggle or locally.
 
 ### ✅ On Kaggle
 
-- Fork the notebook
+- Fork the notebook : [podcast-listening-time](https://www.kaggle.com/code/abhirmirikar/podcast-listening-time)
 - Add the competition dataset
 - Run all cells
 
@@ -139,7 +139,7 @@ You can install everything at once with:
 
 ### 📸 Example Notebook Sections
 
-* Notebook contains the following logical sections:
+Notebook contains the following logical sections:
 
 * Introduction & Problem Statement
 
@@ -174,6 +174,6 @@ PRs are welcome for:
 
 * GitHub: [Abhir1902](https://github.com/Abhir1902)
 
-* Kaggle: [Your Kaggle Profile](https://www.kaggle.com/abhirmirikar)
+* Kaggle: [Kaggle Profile](https://www.kaggle.com/abhirmirikar)
 
   
